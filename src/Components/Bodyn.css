@@ -1,0 +1,21 @@
+.cardstyle{
+    width: 320px;
+    padding:50px;
+    text-align: center;
+    box-shadow: 0 0 10px black;
+    border-radius:5px ;
+}
+.cardstyle button{
+    padding: 1rem;
+}
+.container{
+    margin-left:100px ;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-gap: 15px;
+}
+.form{
+    margin-left: 500px;
+    margin-top: 20px;
+}
